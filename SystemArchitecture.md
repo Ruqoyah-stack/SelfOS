@@ -98,6 +98,19 @@ User → Frontend (React) → Backend (Express API) → Database (MongoDB) ↳ (
 - Microservice-ready backend structure.
 
 ---
+## SelfOS System Workflow
+
+The diagram below represents the conceptual system flow of **SelfOS**, illustrating how users move through the process of reflection, tracking, and iteration. It captures both the emotional and functional loops within the system.
+
+![SelfOS System Workflow](SelfOS%20workflow%20(3).jpg)
+
+**Explanation:**
+- Users initiate a reflection cycle (“version update”).
+- Input is processed through self-assessment and journaling modules.
+- Outputs (insights, changelogs, and reflections) feed back into the system for the next iteration.
+- The loop reinforces continuous personal evolution which is the core principle of SelfOS.
+
+---
 
 ## Summary
 SelfOS merges the logic of product iteration with the empathy of human reflection.  
